@@ -1,5 +1,3 @@
-**Some of my best code isn't in my repositories.**
-
 I build things in Go & TypeScript.  
 I also contribute to the open-source projects behind them.
 
