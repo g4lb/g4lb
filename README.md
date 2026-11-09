@@ -13,3 +13,4 @@ I also contribute to the open-source projects behind them.
 
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) (⭐ 11.4k · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> 82.8M weekly downloads · Utility library)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) (⭐ 1.5k · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> 32.5M weekly downloads · Cron expression parser)
+- [meriyah/meriyah](https://github.com/meriyah/meriyah) (⭐ 1.2k · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> 12.7M weekly downloads · JavaScript parser)
