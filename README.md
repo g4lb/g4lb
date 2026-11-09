@@ -9,6 +9,7 @@ I also contribute to the open-source projects behind them.
 - [redis/rueidis](https://github.com/redis/rueidis) (⭐ 3k · Redis client)
 - [gomarkdown/markdown](https://github.com/gomarkdown/markdown) (⭐ 1.7k · Markdown parser)
 - [dlclark/regexp2](https://github.com/dlclark/regexp2) (⭐ 1.2k · Regex engine)
+- [andybalholm/cascadia](https://github.com/andybalholm/cascadia) (⭐ 759 · CSS selector library)
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="25" /> TypeScript
 
