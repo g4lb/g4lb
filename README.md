@@ -1,4 +1,4 @@
-I build things in Go & TypeScript.  
+I build things in Go, TypeScript & Python.  
 I also contribute to the open-source projects behind them.
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="25" /> Go
