@@ -18,3 +18,7 @@ I also contribute to the open-source projects behind them.
 - [i18next/i18next](https://github.com/i18next/i18next) (⭐ 8.7k · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **34.7M weekly downloads** · Internationalization framework)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) (⭐ 1.5k · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **32.5M weekly downloads** · Cron expression parser)
 - [meriyah/meriyah](https://github.com/meriyah/meriyah) (⭐ 1.2k · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **12.7M weekly downloads** · JavaScript parser)
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" /> Python
+
+- [redis/redis-py](https://github.com/redis/redis-py) (⭐ 13.7k · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **58.1M weekly downloads** · Redis client)
