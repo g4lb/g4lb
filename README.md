@@ -3,6 +3,7 @@ I also contribute to the open-source projects behind them.
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="25" /> Go
 
+- [gogf/gf](https://github.com/gogf/gf) (⭐ 13.3k · Application framework)
 - [wader/fq](https://github.com/wader/fq) (⭐ 10.6k · CLI tool)
 - [dromara/carbon](https://github.com/dromara/carbon) (⭐ 5.2k · Time package)
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) (⭐ 5.1k · Syntax highlighter)
