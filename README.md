@@ -7,8 +7,7 @@ I also contribute to the open-source projects behind them.
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) (⭐ 23.5k · HTTP package)
 - [redis/go-redis](https://github.com/redis/go-redis) (⭐ 22.3k · Redis client)
 - [gogf/gf](https://github.com/gogf/gf) (⭐ 13.3k · Application framework)
-- [wader/fq](https://github.com/wader/fq) (⭐ 10.6k · CLI tool)
-- Also: [johnkerl/miller](https://github.com/johnkerl/miller) · [dromara/carbon](https://github.com/dromara/carbon) · [alecthomas/chroma](https://github.com/alecthomas/chroma) · [redis/rueidis](https://github.com/redis/rueidis) · [gomarkdown/markdown](https://github.com/gomarkdown/markdown) · [dlclark/regexp2](https://github.com/dlclark/regexp2) · [andybalholm/cascadia](https://github.com/andybalholm/cascadia)
+- Also: [wader/fq](https://github.com/wader/fq) · [johnkerl/miller](https://github.com/johnkerl/miller) · [dromara/carbon](https://github.com/dromara/carbon) · [alecthomas/chroma](https://github.com/alecthomas/chroma) · [redis/rueidis](https://github.com/redis/rueidis) · [gomarkdown/markdown](https://github.com/gomarkdown/markdown) · [dlclark/regexp2](https://github.com/dlclark/regexp2) · [andybalholm/cascadia](https://github.com/andybalholm/cascadia)
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="25" /> TypeScript
 
