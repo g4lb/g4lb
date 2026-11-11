@@ -3,6 +3,7 @@ I also contribute to the open-source projects behind them.
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="25" /> Go
 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) (⭐ 67.6k · Monitoring system and time series database)
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) (⭐ 23.5k · HTTP package)
 - [gogf/gf](https://github.com/gogf/gf) (⭐ 13.3k · Application framework)
 - [wader/fq](https://github.com/wader/fq) (⭐ 10.6k · CLI tool)
