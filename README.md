@@ -6,6 +6,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/prometheus.png?size=40" width="16" height="16" /> [prometheus/prometheus](https://github.com/prometheus/prometheus) (⭐ **67.6k** · Monitoring system)
 - <img src="https://github.com/valyala.png?size=40" width="16" height="16" /> [valyala/fasthttp](https://github.com/valyala/fasthttp) (⭐ **23.5k** · HTTP package)
 - <img src="https://github.com/redis.png?size=40" width="16" height="16" /> [redis/go-redis](https://github.com/redis/go-redis) (⭐ **22.3k** · Redis client)
+- <img src="https://github.com/go-sql-driver.png?size=40" width="16" height="16" /> [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) (⭐ **15.3k** · MySQL driver)
 - <img src="https://github.com/gogf.png?size=40" width="16" height="16" /> [gogf/gf](https://github.com/gogf/gf) (⭐ **13.3k** · Application framework)
 - <img src="https://github.com/wader.png?size=40" width="16" height="16" /> [wader/fq](https://github.com/wader/fq) (⭐ **10.6k** · Binary format tool)
 - <img src="https://github.com/johnkerl.png?size=40" width="16" height="16" /> [johnkerl/miller](https://github.com/johnkerl/miller) (⭐ **10.1k** · CSV and JSON tool)
