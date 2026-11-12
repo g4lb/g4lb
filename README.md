@@ -29,6 +29,7 @@ I also contribute to the open-source projects behind them.
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" /> Python
 
+- <img src="https://github.com/psf.png?size=40" width="16" height="16" /> [psf/black](https://github.com/psf/black) (⭐ 42.2k · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **25.8M weekly downloads** · Python code formatter)
 - <img src="https://github.com/redis.png?size=40" width="16" height="16" /> [redis/redis-py](https://github.com/redis/redis-py) (⭐ 13.7k · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **58.1M weekly downloads** · Redis client)
 - <img src="https://github.com/tobymao.png?size=40" width="16" height="16" /> [tobymao/sqlglot](https://github.com/tobymao/sqlglot) (⭐ 9.8k · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **22M weekly downloads** · SQL parser and transpiler)
 - <img src="https://github.com/eliben.png?size=40" width="16" height="16" /> [eliben/pycparser](https://github.com/eliben/pycparser) (⭐ 3.6k · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **286.2M weekly downloads** · C parser in Python)
