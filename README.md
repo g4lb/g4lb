@@ -28,3 +28,4 @@ I also contribute to the open-source projects behind them.
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" /> Python
 
 - [redis/redis-py](https://github.com/redis/redis-py) (⭐ 13.7k · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **58.1M weekly downloads** · Redis client)
+- [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) (⭐ 272 · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **79.6M weekly downloads** · CSS selectors for Beautiful Soup)
