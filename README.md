@@ -13,6 +13,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/johnkerl.png?size=40" width="16" height="16" /> [johnkerl/miller](https://github.com/johnkerl/miller) (⭐ **10.1k** · CSV and JSON tool)
 - <img src="https://github.com/dromara.png?size=40" width="16" height="16" /> [dromara/carbon](https://github.com/dromara/carbon) (⭐ **5.2k** · Time package)
 - <img src="https://github.com/alecthomas.png?size=40" width="16" height="16" /> [alecthomas/chroma](https://github.com/alecthomas/chroma) (⭐ **5.1k** · Syntax highlighter)
+- <img src="https://github.com/uptrace.png?size=40" width="16" height="16" /> [uptrace/bun](https://github.com/uptrace/bun) (⭐ **5k** · SQL-first ORM)
 - <img src="https://github.com/redis.png?size=40" width="16" height="16" /> [redis/rueidis](https://github.com/redis/rueidis) (⭐ **3k** · Redis client)
 - <img src="https://github.com/gomarkdown.png?size=40" width="16" height="16" /> [gomarkdown/markdown](https://github.com/gomarkdown/markdown) (⭐ **1.7k** · Markdown parser)
 - <img src="https://github.com/dlclark.png?size=40" width="16" height="16" /> [dlclark/regexp2](https://github.com/dlclark/regexp2) (⭐ **1.2k** · Regex engine)
