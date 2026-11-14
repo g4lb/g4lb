@@ -11,6 +11,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/gogf.png?size=40" width="16" height="16" /> [gogf/gf](https://github.com/gogf/gf) (⭐ **13.3k** · Application framework)
 - <img src="https://github.com/wader.png?size=40" width="16" height="16" /> [wader/fq](https://github.com/wader/fq) (⭐ **10.6k** · Binary format tool)
 - <img src="https://github.com/johnkerl.png?size=40" width="16" height="16" /> [johnkerl/miller](https://github.com/johnkerl/miller) (⭐ **10.1k** · CSV and JSON tool)
+- <img src="https://github.com/prometheus.png?size=40" width="16" height="16" /> [prometheus/client_golang](https://github.com/prometheus/client_golang) (⭐ **6k** · Prometheus Go client library)
 - <img src="https://github.com/dromara.png?size=40" width="16" height="16" /> [dromara/carbon](https://github.com/dromara/carbon) (⭐ **5.2k** · Time package)
 - <img src="https://github.com/alecthomas.png?size=40" width="16" height="16" /> [alecthomas/chroma](https://github.com/alecthomas/chroma) (⭐ **5.1k** · Syntax highlighter)
 - <img src="https://github.com/uptrace.png?size=40" width="16" height="16" /> [uptrace/bun](https://github.com/uptrace/bun) (⭐ **5k** · SQL-first ORM)
