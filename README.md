@@ -58,8 +58,9 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/harrisiirak.png?size=40" width="16" height="16" /> **[harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser)** — Cron expression parser <sub>(⭐ **1.5k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **32.5M** downloads/week)</sub>
 
 <details>
-<summary>More TypeScript contributions (4)</summary>
+<summary>More TypeScript contributions (5)</summary>
 
+- <img src="https://github.com/dankogai.png?size=40" width="16" height="16" /> **[dankogai/js-base64](https://github.com/dankogai/js-base64)** — Base64 encoder and decoder <sub>(⭐ **4.4k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **29.7M** downloads/week)</sub>
 - <img src="https://github.com/omgovich.png?size=40" width="16" height="16" /> **[omgovich/colord](https://github.com/omgovich/colord)** — Color library <sub>(⭐ **1.9k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **24.8M** downloads/week)</sub>
 - <img src="https://github.com/Hexagon.png?size=40" width="16" height="16" /> **[Hexagon/croner](https://github.com/Hexagon/croner)** — Cron scheduler <sub>(⭐ **2.6k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **15M** downloads/week)</sub>
 - <img src="https://github.com/meriyah.png?size=40" width="16" height="16" /> **[meriyah/meriyah](https://github.com/meriyah/meriyah)** — JavaScript parser <sub>(⭐ **1.2k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **12.9M** downloads/week)</sub>
