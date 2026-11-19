@@ -36,10 +36,11 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/psf.png?size=40" width="16" height="16" /> **[psf/black](https://github.com/psf/black)** — Code formatter <sub>(⭐ **42.2k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **25.8M** downloads/week)</sub>
 
 <details>
-<summary>More Python contributions (9)</summary>
+<summary>More Python contributions (10)</summary>
 
 - <img src="https://github.com/facelessuser.png?size=40" width="16" height="16" /> **[facelessuser/soupsieve](https://github.com/facelessuser/soupsieve)** — CSS selector library <sub>(⭐ **272** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **79.6M** downloads/week)</sub>
 - <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/redis-py](https://github.com/redis/redis-py)** — Redis client <sub>(⭐ **13.7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **58.1M** downloads/week)</sub>
+- <img src="https://github.com/gitpython-developers.png?size=40" width="16" height="16" /> **[gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)** — Git library <sub>(⭐ **5.2k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **34.7M** downloads/week)</sub>
 - <img src="https://github.com/horejsek.png?size=40" width="16" height="16" /> **[horejsek/python-fastjsonschema](https://github.com/horejsek/python-fastjsonschema)** — JSON Schema validator <sub>(⭐ **502** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **29.2M** downloads/week)</sub>
 - <img src="https://github.com/PyCQA.png?size=40" width="16" height="16" /> **[PyCQA/isort](https://github.com/PyCQA/isort)** — Import sorter <sub>(⭐ **7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **22.3M** downloads/week)</sub>
 - <img src="https://github.com/tobymao.png?size=40" width="16" height="16" /> **[tobymao/sqlglot](https://github.com/tobymao/sqlglot)** — SQL parser & transpiler <sub>(⭐ **9.8k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **22M** downloads/week)</sub>
