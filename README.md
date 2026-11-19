@@ -32,12 +32,13 @@ I also contribute to the open-source projects behind them.
 
 - <img src="https://github.com/pypa.png?size=40" width="16" height="16" /> **[pypa/packaging](https://github.com/pypa/packaging)** — Packaging utilities <sub>(⭐ **757** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **439.8M** downloads/week)</sub>
 - <img src="https://github.com/eliben.png?size=40" width="16" height="16" /> **[eliben/pycparser](https://github.com/eliben/pycparser)** — C parser <sub>(⭐ **3.6k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **286.2M** downloads/week)</sub>
-- <img src="https://github.com/facelessuser.png?size=40" width="16" height="16" /> **[facelessuser/soupsieve](https://github.com/facelessuser/soupsieve)** — CSS selector library <sub>(⭐ **272** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **79.6M** downloads/week)</sub>
+- <img src="https://github.com/aio-libs.png?size=40" width="16" height="16" /> **[aio-libs/aiohappyeyeballs](https://github.com/aio-libs/aiohappyeyeballs)** — Happy Eyeballs for asyncio <sub>(⭐ **47** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **121M** downloads/week)</sub>
 - <img src="https://github.com/psf.png?size=40" width="16" height="16" /> **[psf/black](https://github.com/psf/black)** — Code formatter <sub>(⭐ **42.2k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **25.8M** downloads/week)</sub>
 
 <details>
-<summary>More Python contributions (8)</summary>
+<summary>More Python contributions (9)</summary>
 
+- <img src="https://github.com/facelessuser.png?size=40" width="16" height="16" /> **[facelessuser/soupsieve](https://github.com/facelessuser/soupsieve)** — CSS selector library <sub>(⭐ **272** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **79.6M** downloads/week)</sub>
 - <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/redis-py](https://github.com/redis/redis-py)** — Redis client <sub>(⭐ **13.7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **58.1M** downloads/week)</sub>
 - <img src="https://github.com/horejsek.png?size=40" width="16" height="16" /> **[horejsek/python-fastjsonschema](https://github.com/horejsek/python-fastjsonschema)** — JSON Schema validator <sub>(⭐ **502** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **29.2M** downloads/week)</sub>
 - <img src="https://github.com/PyCQA.png?size=40" width="16" height="16" /> **[PyCQA/isort](https://github.com/PyCQA/isort)** — Import sorter <sub>(⭐ **7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **22.3M** downloads/week)</sub>
