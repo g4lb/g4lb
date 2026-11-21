@@ -36,9 +36,10 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/aio-libs.png?size=40" width="16" height="16" /> **[aio-libs/aiohappyeyeballs](https://github.com/aio-libs/aiohappyeyeballs)** — Happy Eyeballs algorithm <sub>(⭐ **47** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **121M** downloads/week)</sub>
 
 <details>
-<summary>More Python contributions (12)</summary>
+<summary>More Python contributions (13)</summary>
 
 - <img src="https://github.com/facelessuser.png?size=40" width="16" height="16" /> **[facelessuser/soupsieve](https://github.com/facelessuser/soupsieve)** — CSS selector library <sub>(⭐ **272** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **79.6M** downloads/week)</sub>
+- <img src="https://github.com/rthalley.png?size=40" width="16" height="16" /> **[rthalley/dnspython](https://github.com/rthalley/dnspython)** — DNS toolkit <sub>(⭐ **2.7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **72.2M** downloads/week)</sub>
 - <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/redis-py](https://github.com/redis/redis-py)** — Redis client <sub>(⭐ **13.7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **58.1M** downloads/week)</sub>
 - <img src="https://github.com/gitpython-developers.png?size=40" width="16" height="16" /> **[gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)** — Git library <sub>(⭐ **5.2k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **34.7M** downloads/week)</sub>
 - <img src="https://github.com/horejsek.png?size=40" width="16" height="16" /> **[horejsek/python-fastjsonschema](https://github.com/horejsek/python-fastjsonschema)** — JSON Schema validator <sub>(⭐ **502** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **29.2M** downloads/week)</sub>
