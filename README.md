@@ -1,3 +1,5 @@
+<img src="g4lb.gif" alt="G4LB" width="200" align="right" />
+
 I build things in Go, Python & TypeScript.  
 I also contribute to the open-source projects behind them.
 
