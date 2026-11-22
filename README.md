@@ -64,9 +64,10 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/toss.png?size=40" width="16" height="16" /> **[toss/es-toolkit](https://github.com/toss/es-toolkit)** — Utility library <sub>(⭐ **11.4k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **82.8M** downloads/week)</sub>
 
 <details>
-<summary>More TypeScript contributions (11)</summary>
+<summary>More TypeScript contributions (12)</summary>
 
 - <img src="https://github.com/pinojs.png?size=40" width="16" height="16" /> **[pinojs/pino](https://github.com/pinojs/pino)** — JSON logger <sub>(⭐ **18.3k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **81.9M** downloads/week)</sub>
+- <img src="https://github.com/planttheidea.png?size=40" width="16" height="16" /> **[planttheidea/fast-equals](https://github.com/planttheidea/fast-equals)** — Deep equality check <sub>(⭐ **615** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **70.3M** downloads/week)</sub>
 - <img src="https://github.com/planttheidea.png?size=40" width="16" height="16" /> **[planttheidea/fast-copy](https://github.com/planttheidea/fast-copy)** — Deep object copy <sub>(⭐ **1.2k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **37.9M** downloads/week)</sub>
 - <img src="https://github.com/i18next.png?size=40" width="16" height="16" /> **[i18next/i18next](https://github.com/i18next/i18next)** — Internationalization <sub>(⭐ **8.7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **34.7M** downloads/week)</sub>
 - <img src="https://github.com/harrisiirak.png?size=40" width="16" height="16" /> **[harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser)** — Cron expression parser <sub>(⭐ **1.5k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **32.5M** downloads/week)</sub>
