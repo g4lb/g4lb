@@ -11,7 +11,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/go-redis](https://github.com/redis/go-redis)** — Redis client <sub>(⭐ **22.3k**)</sub>
 
 <details>
-<summary>More Go contributions (20)</summary>
+<summary>More Go contributions (21)</summary>
 
 - <img src="https://github.com/pion.png?size=40" width="16" height="16" /> **[pion/webrtc](https://github.com/pion/webrtc)** — WebRTC in pure Go <sub>(⭐ **16.9k**)</sub>
 - <img src="https://github.com/go-sql-driver.png?size=40" width="16" height="16" /> **[go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)** — MySQL driver <sub>(⭐ **15.3k**)</sub>
@@ -28,6 +28,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/uptrace.png?size=40" width="16" height="16" /> **[uptrace/bun](https://github.com/uptrace/bun)** — SQL-first ORM <sub>(⭐ **5k**)</sub>
 - <img src="https://github.com/olekukonko.png?size=40" width="16" height="16" /> **[olekukonko/tablewriter](https://github.com/olekukonko/tablewriter)** — ASCII table writer <sub>(⭐ **4.8k**)</sub>
 - <img src="https://github.com/itchyny.png?size=40" width="16" height="16" /> **[itchyny/gojq](https://github.com/itchyny/gojq)** — jq in pure Go <sub>(⭐ **3.8k**)</sub>
+- <img src="https://github.com/twmb.png?size=40" width="16" height="16" /> **[twmb/franz-go](https://github.com/twmb/franz-go)** — Kafka client <sub>(⭐ **3.2k**)</sub>
 - <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/rueidis](https://github.com/redis/rueidis)** — Redis client <sub>(⭐ **3k**)</sub>
 - <img src="https://github.com/gocarina.png?size=40" width="16" height="16" /> **[gocarina/gocsv](https://github.com/gocarina/gocsv)** — CSV marshaling <sub>(⭐ **2.2k**)</sub>
 - <img src="https://github.com/gomarkdown.png?size=40" width="16" height="16" /> **[gomarkdown/markdown](https://github.com/gomarkdown/markdown)** — Markdown parser <sub>(⭐ **1.7k**)</sub>
@@ -73,7 +74,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/toss.png?size=40" width="16" height="16" /> **[toss/es-toolkit](https://github.com/toss/es-toolkit)** — Utility library <sub>(⭐ **11.4k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **82.8M** downloads/week)</sub>
 
 <details>
-<summary>More TypeScript contributions (15)</summary>
+<summary>More TypeScript contributions (16)</summary>
 
 - <img src="https://github.com/pinojs.png?size=40" width="16" height="16" /> **[pinojs/pino](https://github.com/pinojs/pino)** — JSON logger <sub>(⭐ **18.3k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **81.9M** downloads/week)</sub>
 - <img src="https://github.com/planttheidea.png?size=40" width="16" height="16" /> **[planttheidea/fast-equals](https://github.com/planttheidea/fast-equals)** — Deep equality check <sub>(⭐ **615** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **70.3M** downloads/week)</sub>
@@ -82,6 +83,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/i18next.png?size=40" width="16" height="16" /> **[i18next/i18next](https://github.com/i18next/i18next)** — Internationalization <sub>(⭐ **8.7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **34.7M** downloads/week)</sub>
 - <img src="https://github.com/harrisiirak.png?size=40" width="16" height="16" /> **[harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser)** — Cron expression parser <sub>(⭐ **1.5k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **32.5M** downloads/week)</sub>
 - <img src="https://github.com/dankogai.png?size=40" width="16" height="16" /> **[dankogai/js-base64](https://github.com/dankogai/js-base64)** — Base64 encoder and decoder <sub>(⭐ **4.4k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **29.7M** downloads/week)</sub>
+- <img src="https://github.com/gajus.png?size=40" width="16" height="16" /> **[gajus/table](https://github.com/gajus/table)** — Text table formatter <sub>(⭐ **977** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **28.2M** downloads/week)</sub>
 - <img src="https://github.com/omgovich.png?size=40" width="16" height="16" /> **[omgovich/colord](https://github.com/omgovich/colord)** — Color library <sub>(⭐ **1.9k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **24.8M** downloads/week)</sub>
 - <img src="https://github.com/ravionhq.png?size=40" width="16" height="16" /> **[ravionhq/superjson](https://github.com/ravionhq/superjson)** — JSON serializer for dates, Maps and Sets <sub>(⭐ **5.3k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **20.1M** downloads/week)</sub>
 - <img src="https://github.com/Hexagon.png?size=40" width="16" height="16" /> **[Hexagon/croner](https://github.com/Hexagon/croner)** — Cron scheduler <sub>(⭐ **2.6k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **15M** downloads/week)</sub>
