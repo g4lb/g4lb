@@ -6,13 +6,14 @@ I also contribute to the open-source projects behind them.
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="24" height="24" /> Go
 
 - <img src="https://github.com/prometheus.png?size=40" width="16" height="16" /> **[prometheus/prometheus](https://github.com/prometheus/prometheus)** — Monitoring system <sub>(⭐ **67.6k**)</sub>
+- <img src="https://github.com/go-gitea.png?size=40" width="16" height="16" /> **[go-gitea/gitea](https://github.com/go-gitea/gitea)** — Self-hosted Git service <sub>(⭐ **59.2k**)</sub>
 - <img src="https://github.com/gofiber.png?size=40" width="16" height="16" /> **[gofiber/fiber](https://github.com/gofiber/fiber)** — Web framework <sub>(⭐ **40.3k**)</sub>
 - <img src="https://github.com/valyala.png?size=40" width="16" height="16" /> **[valyala/fasthttp](https://github.com/valyala/fasthttp)** — High-performance HTTP <sub>(⭐ **23.5k**)</sub>
-- <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/go-redis](https://github.com/redis/go-redis)** — Redis client <sub>(⭐ **22.3k**)</sub>
 
 <details>
-<summary>More Go contributions (23)</summary>
+<summary>More Go contributions (24)</summary>
 
+- <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/go-redis](https://github.com/redis/go-redis)** — Redis client <sub>(⭐ **22.3k**)</sub>
 - <img src="https://github.com/lionsoul2014.png?size=40" width="16" height="16" /> **[lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)** — IP to region lookup <sub>(⭐ **20k**)</sub>
 - <img src="https://github.com/pion.png?size=40" width="16" height="16" /> **[pion/webrtc](https://github.com/pion/webrtc)** — WebRTC in pure Go <sub>(⭐ **16.9k**)</sub>
 - <img src="https://github.com/go-sql-driver.png?size=40" width="16" height="16" /> **[go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)** — MySQL driver <sub>(⭐ **15.3k**)</sub>
