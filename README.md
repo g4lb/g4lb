@@ -11,7 +11,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/gofiber.png?size=40" width="16" height="16" /> **[gofiber/fiber](https://github.com/gofiber/fiber)** — Web framework <sub>(⭐ **40.3k**)</sub>
 
 <details>
-<summary>More Go contributions (25)</summary>
+<summary>More Go contributions (27)</summary>
 
 - <img src="https://github.com/valyala.png?size=40" width="16" height="16" /> **[valyala/fasthttp](https://github.com/valyala/fasthttp)** — High-performance HTTP <sub>(⭐ **23.5k**)</sub>
 - <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/go-redis](https://github.com/redis/go-redis)** — Redis client <sub>(⭐ **22.3k**)</sub>
@@ -23,6 +23,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/wader.png?size=40" width="16" height="16" /> **[wader/fq](https://github.com/wader/fq)** — Binary format tool <sub>(⭐ **10.6k**)</sub>
 - <img src="https://github.com/johnkerl.png?size=40" width="16" height="16" /> **[johnkerl/miller](https://github.com/johnkerl/miller)** — CSV & JSON tool <sub>(⭐ **10.1k**)</sub>
 - <img src="https://github.com/go-co-op.png?size=40" width="16" height="16" /> **[go-co-op/gocron](https://github.com/go-co-op/gocron)** — Job scheduler <sub>(⭐ **7.2k**)</sub>
+- <img src="https://github.com/anacrolix.png?size=40" width="16" height="16" /> **[anacrolix/torrent](https://github.com/anacrolix/torrent)** — BitTorrent library <sub>(⭐ **6.1k**)</sub>
 - <img src="https://github.com/prometheus.png?size=40" width="16" height="16" /> **[prometheus/client_golang](https://github.com/prometheus/client_golang)** — Prometheus client <sub>(⭐ **6k**)</sub>
 - <img src="https://github.com/klauspost.png?size=40" width="16" height="16" /> **[klauspost/compress](https://github.com/klauspost/compress)** — Compression library <sub>(⭐ **5.7k**)</sub>
 - <img src="https://github.com/brianvoe.png?size=40" width="16" height="16" /> **[brianvoe/gofakeit](https://github.com/brianvoe/gofakeit)** — Fake data generator <sub>(⭐ **5.4k**)</sub>
@@ -35,6 +36,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/twmb.png?size=40" width="16" height="16" /> **[twmb/franz-go](https://github.com/twmb/franz-go)** — Kafka client <sub>(⭐ **3.2k**)</sub>
 - <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/rueidis](https://github.com/redis/rueidis)** — Redis client <sub>(⭐ **3k**)</sub>
 - <img src="https://github.com/gocarina.png?size=40" width="16" height="16" /> **[gocarina/gocsv](https://github.com/gocarina/gocsv)** — CSV marshaling <sub>(⭐ **2.2k**)</sub>
+- <img src="https://github.com/k3s-io.png?size=40" width="16" height="16" /> **[k3s-io/kine](https://github.com/k3s-io/kine)** — etcd shim for SQL databases <sub>(⭐ **2.4k**)</sub>
 - <img src="https://github.com/gomarkdown.png?size=40" width="16" height="16" /> **[gomarkdown/markdown](https://github.com/gomarkdown/markdown)** — Markdown parser <sub>(⭐ **1.7k**)</sub>
 - <img src="https://github.com/dlclark.png?size=40" width="16" height="16" /> **[dlclark/regexp2](https://github.com/dlclark/regexp2)** — Regex engine <sub>(⭐ **1.2k**)</sub>
 - <img src="https://github.com/andybalholm.png?size=40" width="16" height="16" /> **[andybalholm/cascadia](https://github.com/andybalholm/cascadia)** — CSS selector library <sub>(⭐ **760**)</sub>
@@ -50,10 +52,11 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/aio-libs.png?size=40" width="16" height="16" /> **[aio-libs/aiohappyeyeballs](https://github.com/aio-libs/aiohappyeyeballs)** — Happy Eyeballs algorithm <sub>(⭐ **47** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **121M** downloads/week)</sub>
 
 <details>
-<summary>More Python contributions (14)</summary>
+<summary>More Python contributions (15)</summary>
 
 - <img src="https://github.com/facelessuser.png?size=40" width="16" height="16" /> **[facelessuser/soupsieve](https://github.com/facelessuser/soupsieve)** — CSS selector library <sub>(⭐ **272** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **79.6M** downloads/week)</sub>
 - <img src="https://github.com/rthalley.png?size=40" width="16" height="16" /> **[rthalley/dnspython](https://github.com/rthalley/dnspython)** — DNS toolkit <sub>(⭐ **2.7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **72.2M** downloads/week)</sub>
+- <img src="https://github.com/tkem.png?size=40" width="16" height="16" /> **[tkem/cachetools](https://github.com/tkem/cachetools)** — Memoizing caches <sub>(⭐ **2.8k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **72.2M** downloads/week)</sub>
 - <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/redis-py](https://github.com/redis/redis-py)** — Redis client <sub>(⭐ **13.7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **58.1M** downloads/week)</sub>
 - <img src="https://github.com/gitpython-developers.png?size=40" width="16" height="16" /> **[gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)** — Git library <sub>(⭐ **5.2k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **34.7M** downloads/week)</sub>
 - <img src="https://github.com/horejsek.png?size=40" width="16" height="16" /> **[horejsek/python-fastjsonschema](https://github.com/horejsek/python-fastjsonschema)** — JSON Schema validator <sub>(⭐ **502** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **29.2M** downloads/week)</sub>
@@ -78,7 +81,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/BridgeAR.png?size=40" width="16" height="16" /> **[BridgeAR/safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify)** — Safe JSON.stringify <sub>(⭐ **254** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **99.1M** downloads/week)</sub>
 
 <details>
-<summary>More TypeScript contributions (18)</summary>
+<summary>More TypeScript contributions (19)</summary>
 
 - <img src="https://github.com/toss.png?size=40" width="16" height="16" /> **[toss/es-toolkit](https://github.com/toss/es-toolkit)** — Utility library <sub>(⭐ **11.4k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **82.8M** downloads/week)</sub>
 - <img src="https://github.com/pinojs.png?size=40" width="16" height="16" /> **[pinojs/pino](https://github.com/pinojs/pino)** — JSON logger <sub>(⭐ **18.3k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **81.9M** downloads/week)</sub>
@@ -94,6 +97,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/mapbox.png?size=40" width="16" height="16" /> **[mapbox/pixelmatch](https://github.com/mapbox/pixelmatch)** — Image comparison <sub>(⭐ **7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **16.7M** downloads/week)</sub>
 - <img src="https://github.com/Hexagon.png?size=40" width="16" height="16" /> **[Hexagon/croner](https://github.com/Hexagon/croner)** — Cron scheduler <sub>(⭐ **2.6k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **15M** downloads/week)</sub>
 - <img src="https://github.com/meriyah.png?size=40" width="16" height="16" /> **[meriyah/meriyah](https://github.com/meriyah/meriyah)** — JavaScript parser <sub>(⭐ **1.2k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **12.9M** downloads/week)</sub>
+- <img src="https://github.com/dagrejs.png?size=40" width="16" height="16" /> **[dagrejs/dagre](https://github.com/dagrejs/dagre)** — Directed graph layout <sub>(⭐ **5.9k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **9.5M** downloads/week)</sub>
 - <img src="https://github.com/Automattic.png?size=40" width="16" height="16" /> **[Automattic/mongoose](https://github.com/Automattic/mongoose)** — MongoDB object modeling <sub>(⭐ **27.5k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **9.4M** downloads/week)</sub>
 - <img src="https://github.com/konvajs.png?size=40" width="16" height="16" /> **[konvajs/konva](https://github.com/konvajs/konva)** — 2D canvas library <sub>(⭐ **15k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **3.8M** downloads/week)</sub>
 - <img src="https://github.com/josdejong.png?size=40" width="16" height="16" /> **[josdejong/lossless-json](https://github.com/josdejong/lossless-json)** — Lossless JSON parser <sub>(⭐ **480** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **3M** downloads/week)</sub>
