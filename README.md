@@ -52,7 +52,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/aio-libs.png?size=40" width="16" height="16" /> **[aio-libs/aiohappyeyeballs](https://github.com/aio-libs/aiohappyeyeballs)** — Happy Eyeballs algorithm <sub>(⭐ **47** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **121M** downloads/week)</sub>
 
 <details>
-<summary>More Python contributions (15)</summary>
+<summary>More Python contributions (16)</summary>
 
 - <img src="https://github.com/facelessuser.png?size=40" width="16" height="16" /> **[facelessuser/soupsieve](https://github.com/facelessuser/soupsieve)** — CSS selector library <sub>(⭐ **272** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **79.6M** downloads/week)</sub>
 - <img src="https://github.com/rthalley.png?size=40" width="16" height="16" /> **[rthalley/dnspython](https://github.com/rthalley/dnspython)** — DNS toolkit <sub>(⭐ **2.7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **72.2M** downloads/week)</sub>
@@ -68,6 +68,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/python-semver.png?size=40" width="16" height="16" /> **[python-semver/python-semver](https://github.com/python-semver/python-semver)** — Semantic versioning <sub>(⭐ **526** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **18.4M** downloads/week)</sub>
 - <img src="https://github.com/piskvorky.png?size=40" width="16" height="16" /> **[piskvorky/smart_open](https://github.com/piskvorky/smart_open)** — Cloud file streaming <sub>(⭐ **3.5k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **14.9M** downloads/week)</sub>
 - <img src="https://github.com/r1chardj0n3s.png?size=40" width="16" height="16" /> **[r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse)** — String parser <sub>(⭐ **1.8k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **3.9M** downloads/week)</sub>
+- <img src="https://github.com/vutran1710.png?size=40" width="16" height="16" /> **[vutran1710/PyrateLimiter](https://github.com/vutran1710/PyrateLimiter)** — Rate limiter <sub>(⭐ **533** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **2.9M** downloads/week)</sub>
 - <img src="https://github.com/hgrecco.png?size=40" width="16" height="16" /> **[hgrecco/pint](https://github.com/hgrecco/pint)** — Physical units <sub>(⭐ **2.8k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **2.2M** downloads/week)</sub>
 
 </details>
