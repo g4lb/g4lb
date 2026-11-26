@@ -11,7 +11,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/gofiber.png?size=40" width="16" height="16" /> **[gofiber/fiber](https://github.com/gofiber/fiber)** — Web framework <sub>(⭐ **40.3k**)</sub>
 
 <details>
-<summary>More Go contributions (29)</summary>
+<summary>More Go contributions (30)</summary>
 
 - <img src="https://github.com/seaweedfs.png?size=40" width="16" height="16" /> **[seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)** — Distributed file system <sub>(⭐ **36.3k**)</sub>
 - <img src="https://github.com/valyala.png?size=40" width="16" height="16" /> **[valyala/fasthttp](https://github.com/valyala/fasthttp)** — High-performance HTTP <sub>(⭐ **23.5k**)</sub>
@@ -41,6 +41,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/gocarina.png?size=40" width="16" height="16" /> **[gocarina/gocsv](https://github.com/gocarina/gocsv)** — CSV marshaling <sub>(⭐ **2.2k**)</sub>
 - <img src="https://github.com/gomarkdown.png?size=40" width="16" height="16" /> **[gomarkdown/markdown](https://github.com/gomarkdown/markdown)** — Markdown parser <sub>(⭐ **1.7k**)</sub>
 - <img src="https://github.com/dlclark.png?size=40" width="16" height="16" /> **[dlclark/regexp2](https://github.com/dlclark/regexp2)** — Regex engine <sub>(⭐ **1.2k**)</sub>
+- <img src="https://github.com/gookit.png?size=40" width="16" height="16" /> **[gookit/validate](https://github.com/gookit/validate)** — Data validation <sub>(⭐ **1.2k**)</sub>
 - <img src="https://github.com/andybalholm.png?size=40" width="16" height="16" /> **[andybalholm/cascadia](https://github.com/andybalholm/cascadia)** — CSS selector library <sub>(⭐ **760**)</sub>
 
 </details>
