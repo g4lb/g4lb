@@ -1,6 +1,6 @@
 <img src="g4lb.gif" alt="G4LB" width="200" align="right" />
 
-I build things in Go, Python & TypeScript.  
+I build things in Go, TypeScript & Python.  
 I also contribute to the open-source projects behind them.
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="24" height="24" /> Go
@@ -46,36 +46,6 @@ I also contribute to the open-source projects behind them.
 </details>
 
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="24" height="24" /> Python
-
-- <img src="https://github.com/pypa.png?size=40" width="16" height="16" /> **[pypa/packaging](https://github.com/pypa/packaging)** — Packaging utilities <sub>(⭐ **757** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **439.8M** downloads/week)</sub>
-- <img src="https://github.com/eliben.png?size=40" width="16" height="16" /> **[eliben/pycparser](https://github.com/eliben/pycparser)** — C parser <sub>(⭐ **3.6k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **286.2M** downloads/week)</sub>
-- <img src="https://github.com/fsspec.png?size=40" width="16" height="16" /> **[fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec)** — Filesystem interface <sub>(⭐ **1.4k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **141.7M** downloads/week)</sub>
-- <img src="https://github.com/aio-libs.png?size=40" width="16" height="16" /> **[aio-libs/aiohappyeyeballs](https://github.com/aio-libs/aiohappyeyeballs)** — Happy Eyeballs algorithm <sub>(⭐ **47** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **121M** downloads/week)</sub>
-
-<details>
-<summary>More Python contributions (16)</summary>
-
-- <img src="https://github.com/facelessuser.png?size=40" width="16" height="16" /> **[facelessuser/soupsieve](https://github.com/facelessuser/soupsieve)** — CSS selector library <sub>(⭐ **272** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **79.6M** downloads/week)</sub>
-- <img src="https://github.com/rthalley.png?size=40" width="16" height="16" /> **[rthalley/dnspython](https://github.com/rthalley/dnspython)** — DNS toolkit <sub>(⭐ **2.7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **72.2M** downloads/week)</sub>
-- <img src="https://github.com/tkem.png?size=40" width="16" height="16" /> **[tkem/cachetools](https://github.com/tkem/cachetools)** — Memoizing caches <sub>(⭐ **2.8k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **72.2M** downloads/week)</sub>
-- <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/redis-py](https://github.com/redis/redis-py)** — Redis client <sub>(⭐ **13.7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **58.1M** downloads/week)</sub>
-- <img src="https://github.com/gitpython-developers.png?size=40" width="16" height="16" /> **[gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)** — Git library <sub>(⭐ **5.2k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **34.7M** downloads/week)</sub>
-- <img src="https://github.com/horejsek.png?size=40" width="16" height="16" /> **[horejsek/python-fastjsonschema](https://github.com/horejsek/python-fastjsonschema)** — JSON Schema validator <sub>(⭐ **502** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **29.2M** downloads/week)</sub>
-- <img src="https://github.com/psf.png?size=40" width="16" height="16" /> **[psf/black](https://github.com/psf/black)** — Code formatter <sub>(⭐ **42.2k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **25.8M** downloads/week)</sub>
-- <img src="https://github.com/nhairs.png?size=40" width="16" height="16" /> **[nhairs/python-json-logger](https://github.com/nhairs/python-json-logger)** — JSON log formatter <sub>(⭐ **280** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **25.4M** downloads/week)</sub>
-- <img src="https://github.com/PyCQA.png?size=40" width="16" height="16" /> **[PyCQA/isort](https://github.com/PyCQA/isort)** — Import sorter <sub>(⭐ **7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **22.3M** downloads/week)</sub>
-- <img src="https://github.com/tobymao.png?size=40" width="16" height="16" /> **[tobymao/sqlglot](https://github.com/tobymao/sqlglot)** — SQL parser & transpiler <sub>(⭐ **9.8k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **22M** downloads/week)</sub>
-- <img src="https://github.com/graphql-python.png?size=40" width="16" height="16" /> **[graphql-python/graphql-core](https://github.com/graphql-python/graphql-core)** — GraphQL implementation <sub>(⭐ **536** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **19.4M** downloads/week)</sub>
-- <img src="https://github.com/python-semver.png?size=40" width="16" height="16" /> **[python-semver/python-semver](https://github.com/python-semver/python-semver)** — Semantic versioning <sub>(⭐ **526** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **18.4M** downloads/week)</sub>
-- <img src="https://github.com/piskvorky.png?size=40" width="16" height="16" /> **[piskvorky/smart_open](https://github.com/piskvorky/smart_open)** — Cloud file streaming <sub>(⭐ **3.5k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **14.9M** downloads/week)</sub>
-- <img src="https://github.com/r1chardj0n3s.png?size=40" width="16" height="16" /> **[r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse)** — String parser <sub>(⭐ **1.8k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **3.9M** downloads/week)</sub>
-- <img src="https://github.com/vutran1710.png?size=40" width="16" height="16" /> **[vutran1710/PyrateLimiter](https://github.com/vutran1710/PyrateLimiter)** — Rate limiter <sub>(⭐ **533** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **2.9M** downloads/week)</sub>
-- <img src="https://github.com/hgrecco.png?size=40" width="16" height="16" /> **[hgrecco/pint](https://github.com/hgrecco/pint)** — Physical units <sub>(⭐ **2.8k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **2.2M** downloads/week)</sub>
-
-</details>
-
-
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="24" height="24" /> TypeScript
 
 - <img src="https://github.com/kaelzhang.png?size=40" width="16" height="16" /> **[kaelzhang/node-ignore](https://github.com/kaelzhang/node-ignore)** — .gitignore rules matcher <sub>(⭐ **508** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **454.6M** downloads/week)</sub>
@@ -108,5 +78,35 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/konvajs.png?size=40" width="16" height="16" /> **[konvajs/konva](https://github.com/konvajs/konva)** — 2D canvas library <sub>(⭐ **15k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **3.8M** downloads/week)</sub>
 - <img src="https://github.com/josdejong.png?size=40" width="16" height="16" /> **[josdejong/lossless-json](https://github.com/josdejong/lossless-json)** — Lossless JSON parser <sub>(⭐ **480** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **3M** downloads/week)</sub>
 - <img src="https://github.com/radashi-org.png?size=40" width="16" height="16" /> **[radashi-org/radashi](https://github.com/radashi-org/radashi)** — Utility library <sub>(⭐ **967** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="12" alt="npm" /> **343.7k** downloads/week)</sub>
+
+</details>
+
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="24" height="24" /> Python
+
+- <img src="https://github.com/pypa.png?size=40" width="16" height="16" /> **[pypa/packaging](https://github.com/pypa/packaging)** — Packaging utilities <sub>(⭐ **757** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **439.8M** downloads/week)</sub>
+- <img src="https://github.com/eliben.png?size=40" width="16" height="16" /> **[eliben/pycparser](https://github.com/eliben/pycparser)** — C parser <sub>(⭐ **3.6k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **286.2M** downloads/week)</sub>
+- <img src="https://github.com/fsspec.png?size=40" width="16" height="16" /> **[fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec)** — Filesystem interface <sub>(⭐ **1.4k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **141.7M** downloads/week)</sub>
+- <img src="https://github.com/aio-libs.png?size=40" width="16" height="16" /> **[aio-libs/aiohappyeyeballs](https://github.com/aio-libs/aiohappyeyeballs)** — Happy Eyeballs algorithm <sub>(⭐ **47** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **121M** downloads/week)</sub>
+
+<details>
+<summary>More Python contributions (16)</summary>
+
+- <img src="https://github.com/facelessuser.png?size=40" width="16" height="16" /> **[facelessuser/soupsieve](https://github.com/facelessuser/soupsieve)** — CSS selector library <sub>(⭐ **272** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **79.6M** downloads/week)</sub>
+- <img src="https://github.com/rthalley.png?size=40" width="16" height="16" /> **[rthalley/dnspython](https://github.com/rthalley/dnspython)** — DNS toolkit <sub>(⭐ **2.7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **72.2M** downloads/week)</sub>
+- <img src="https://github.com/tkem.png?size=40" width="16" height="16" /> **[tkem/cachetools](https://github.com/tkem/cachetools)** — Memoizing caches <sub>(⭐ **2.8k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **72.2M** downloads/week)</sub>
+- <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/redis-py](https://github.com/redis/redis-py)** — Redis client <sub>(⭐ **13.7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **58.1M** downloads/week)</sub>
+- <img src="https://github.com/gitpython-developers.png?size=40" width="16" height="16" /> **[gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)** — Git library <sub>(⭐ **5.2k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **34.7M** downloads/week)</sub>
+- <img src="https://github.com/horejsek.png?size=40" width="16" height="16" /> **[horejsek/python-fastjsonschema](https://github.com/horejsek/python-fastjsonschema)** — JSON Schema validator <sub>(⭐ **502** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **29.2M** downloads/week)</sub>
+- <img src="https://github.com/psf.png?size=40" width="16" height="16" /> **[psf/black](https://github.com/psf/black)** — Code formatter <sub>(⭐ **42.2k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **25.8M** downloads/week)</sub>
+- <img src="https://github.com/nhairs.png?size=40" width="16" height="16" /> **[nhairs/python-json-logger](https://github.com/nhairs/python-json-logger)** — JSON log formatter <sub>(⭐ **280** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **25.4M** downloads/week)</sub>
+- <img src="https://github.com/PyCQA.png?size=40" width="16" height="16" /> **[PyCQA/isort](https://github.com/PyCQA/isort)** — Import sorter <sub>(⭐ **7k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **22.3M** downloads/week)</sub>
+- <img src="https://github.com/tobymao.png?size=40" width="16" height="16" /> **[tobymao/sqlglot](https://github.com/tobymao/sqlglot)** — SQL parser & transpiler <sub>(⭐ **9.8k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **22M** downloads/week)</sub>
+- <img src="https://github.com/graphql-python.png?size=40" width="16" height="16" /> **[graphql-python/graphql-core](https://github.com/graphql-python/graphql-core)** — GraphQL implementation <sub>(⭐ **536** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **19.4M** downloads/week)</sub>
+- <img src="https://github.com/python-semver.png?size=40" width="16" height="16" /> **[python-semver/python-semver](https://github.com/python-semver/python-semver)** — Semantic versioning <sub>(⭐ **526** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **18.4M** downloads/week)</sub>
+- <img src="https://github.com/piskvorky.png?size=40" width="16" height="16" /> **[piskvorky/smart_open](https://github.com/piskvorky/smart_open)** — Cloud file streaming <sub>(⭐ **3.5k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **14.9M** downloads/week)</sub>
+- <img src="https://github.com/r1chardj0n3s.png?size=40" width="16" height="16" /> **[r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse)** — String parser <sub>(⭐ **1.8k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **3.9M** downloads/week)</sub>
+- <img src="https://github.com/vutran1710.png?size=40" width="16" height="16" /> **[vutran1710/PyrateLimiter](https://github.com/vutran1710/PyrateLimiter)** — Rate limiter <sub>(⭐ **533** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **2.9M** downloads/week)</sub>
+- <img src="https://github.com/hgrecco.png?size=40" width="16" height="16" /> **[hgrecco/pint](https://github.com/hgrecco/pint)** — Physical units <sub>(⭐ **2.8k** · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="12" alt="PyPI" /> **2.2M** downloads/week)</sub>
 
 </details>
