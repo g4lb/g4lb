@@ -7,12 +7,13 @@ I also contribute to the open-source projects behind them.
 
 - <img src="https://github.com/gohugoio.png?size=40" width="16" height="16" /> **[gohugoio/hugo](https://github.com/gohugoio/hugo)** — Static site generator <sub>(⭐ **90.6k**)</sub>
 - <img src="https://github.com/prometheus.png?size=40" width="16" height="16" /> **[prometheus/prometheus](https://github.com/prometheus/prometheus)** — Monitoring system <sub>(⭐ **67.6k**)</sub>
+- <img src="https://github.com/usememos.png?size=40" width="16" height="16" /> **[usememos/memos](https://github.com/usememos/memos)** — Self-hosted note service <sub>(⭐ **64.7k**)</sub>
 - <img src="https://github.com/go-gitea.png?size=40" width="16" height="16" /> **[go-gitea/gitea](https://github.com/go-gitea/gitea)** — Self-hosted Git service <sub>(⭐ **59.2k**)</sub>
-- <img src="https://github.com/gofiber.png?size=40" width="16" height="16" /> **[gofiber/fiber](https://github.com/gofiber/fiber)** — Web framework <sub>(⭐ **40.3k**)</sub>
 
 <details>
-<summary>More Go contributions (30)</summary>
+<summary>More Go contributions (31)</summary>
 
+- <img src="https://github.com/gofiber.png?size=40" width="16" height="16" /> **[gofiber/fiber](https://github.com/gofiber/fiber)** — Web framework <sub>(⭐ **40.3k**)</sub>
 - <img src="https://github.com/seaweedfs.png?size=40" width="16" height="16" /> **[seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)** — Distributed file system <sub>(⭐ **36.3k**)</sub>
 - <img src="https://github.com/valyala.png?size=40" width="16" height="16" /> **[valyala/fasthttp](https://github.com/valyala/fasthttp)** — High-performance HTTP <sub>(⭐ **23.5k**)</sub>
 - <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/go-redis](https://github.com/redis/go-redis)** — Redis client <sub>(⭐ **22.3k**)</sub>
