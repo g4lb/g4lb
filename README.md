@@ -11,7 +11,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/gofiber.png?size=40" width="16" height="16" /> **[gofiber/fiber](https://github.com/gofiber/fiber)** — Web framework <sub>(⭐ **40.3k**)</sub>
 
 <details>
-<summary>More Go contributions (28)</summary>
+<summary>More Go contributions (29)</summary>
 
 - <img src="https://github.com/seaweedfs.png?size=40" width="16" height="16" /> **[seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)** — Distributed file system <sub>(⭐ **36.3k**)</sub>
 - <img src="https://github.com/valyala.png?size=40" width="16" height="16" /> **[valyala/fasthttp](https://github.com/valyala/fasthttp)** — High-performance HTTP <sub>(⭐ **23.5k**)</sub>
@@ -36,8 +36,9 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/itchyny.png?size=40" width="16" height="16" /> **[itchyny/gojq](https://github.com/itchyny/gojq)** — jq in pure Go <sub>(⭐ **3.8k**)</sub>
 - <img src="https://github.com/twmb.png?size=40" width="16" height="16" /> **[twmb/franz-go](https://github.com/twmb/franz-go)** — Kafka client <sub>(⭐ **3.2k**)</sub>
 - <img src="https://github.com/redis.png?size=40" width="16" height="16" /> **[redis/rueidis](https://github.com/redis/rueidis)** — Redis client <sub>(⭐ **3k**)</sub>
-- <img src="https://github.com/gocarina.png?size=40" width="16" height="16" /> **[gocarina/gocsv](https://github.com/gocarina/gocsv)** — CSV marshaling <sub>(⭐ **2.2k**)</sub>
 - <img src="https://github.com/k3s-io.png?size=40" width="16" height="16" /> **[k3s-io/kine](https://github.com/k3s-io/kine)** — etcd shim for SQL databases <sub>(⭐ **2.4k**)</sub>
+- <img src="https://github.com/gookit.png?size=40" width="16" height="16" /> **[gookit/goutil](https://github.com/gookit/goutil)** — Go utility library <sub>(⭐ **2.4k**)</sub>
+- <img src="https://github.com/gocarina.png?size=40" width="16" height="16" /> **[gocarina/gocsv](https://github.com/gocarina/gocsv)** — CSV marshaling <sub>(⭐ **2.2k**)</sub>
 - <img src="https://github.com/gomarkdown.png?size=40" width="16" height="16" /> **[gomarkdown/markdown](https://github.com/gomarkdown/markdown)** — Markdown parser <sub>(⭐ **1.7k**)</sub>
 - <img src="https://github.com/dlclark.png?size=40" width="16" height="16" /> **[dlclark/regexp2](https://github.com/dlclark/regexp2)** — Regex engine <sub>(⭐ **1.2k**)</sub>
 - <img src="https://github.com/andybalholm.png?size=40" width="16" height="16" /> **[andybalholm/cascadia](https://github.com/andybalholm/cascadia)** — CSS selector library <sub>(⭐ **760**)</sub>
