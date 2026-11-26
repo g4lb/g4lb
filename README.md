@@ -11,7 +11,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/go-gitea.png?size=40" width="16" height="16" /> **[go-gitea/gitea](https://github.com/go-gitea/gitea)** — Self-hosted Git service <sub>(⭐ **59.2k**)</sub>
 
 <details>
-<summary>More Go contributions (32)</summary>
+<summary>More Go contributions (33)</summary>
 
 - <img src="https://github.com/gofiber.png?size=40" width="16" height="16" /> **[gofiber/fiber](https://github.com/gofiber/fiber)** — Web framework <sub>(⭐ **40.3k**)</sub>
 - <img src="https://github.com/seaweedfs.png?size=40" width="16" height="16" /> **[seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)** — Distributed file system <sub>(⭐ **36.3k**)</sub>
@@ -22,6 +22,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/pion.png?size=40" width="16" height="16" /> **[pion/webrtc](https://github.com/pion/webrtc)** — WebRTC in pure Go <sub>(⭐ **16.9k**)</sub>
 - <img src="https://github.com/go-sql-driver.png?size=40" width="16" height="16" /> **[go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)** — MySQL driver <sub>(⭐ **15.3k**)</sub>
 - <img src="https://github.com/gogf.png?size=40" width="16" height="16" /> **[gogf/gf](https://github.com/gogf/gf)** — Application framework <sub>(⭐ **13.3k**)</sub>
+- <img src="https://github.com/bufbuild.png?size=40" width="16" height="16" /> **[bufbuild/buf](https://github.com/bufbuild/buf)** — Protobuf toolchain <sub>(⭐ **11.5k**)</sub>
 - <img src="https://github.com/esimov.png?size=40" width="16" height="16" /> **[esimov/caire](https://github.com/esimov/caire)** — Content-aware image resize <sub>(⭐ **10.9k**)</sub>
 - <img src="https://github.com/wader.png?size=40" width="16" height="16" /> **[wader/fq](https://github.com/wader/fq)** — Binary format tool <sub>(⭐ **10.6k**)</sub>
 - <img src="https://github.com/johnkerl.png?size=40" width="16" height="16" /> **[johnkerl/miller](https://github.com/johnkerl/miller)** — CSV & JSON tool <sub>(⭐ **10.1k**)</sub>
