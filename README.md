@@ -11,7 +11,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/go-gitea.png?size=40" width="16" height="16" /> **[go-gitea/gitea](https://github.com/go-gitea/gitea)** — Self-hosted Git service <sub>(⭐ **59.2k**)</sub>
 
 <details>
-<summary>More Go contributions (33)</summary>
+<summary>More Go contributions (34)</summary>
 
 - <img src="https://github.com/gofiber.png?size=40" width="16" height="16" /> **[gofiber/fiber](https://github.com/gofiber/fiber)** — Web framework <sub>(⭐ **40.3k**)</sub>
 - <img src="https://github.com/seaweedfs.png?size=40" width="16" height="16" /> **[seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)** — Distributed file system <sub>(⭐ **36.3k**)</sub>
@@ -42,6 +42,7 @@ I also contribute to the open-source projects behind them.
 - <img src="https://github.com/k3s-io.png?size=40" width="16" height="16" /> **[k3s-io/kine](https://github.com/k3s-io/kine)** — etcd shim for SQL databases <sub>(⭐ **2.4k**)</sub>
 - <img src="https://github.com/gookit.png?size=40" width="16" height="16" /> **[gookit/goutil](https://github.com/gookit/goutil)** — Go utility library <sub>(⭐ **2.4k**)</sub>
 - <img src="https://github.com/gocarina.png?size=40" width="16" height="16" /> **[gocarina/gocsv](https://github.com/gocarina/gocsv)** — CSV marshaling <sub>(⭐ **2.2k**)</sub>
+- <img src="https://github.com/gabriel-vasile.png?size=40" width="16" height="16" /> **[gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype)** — MIME type detection <sub>(⭐ **2k**)</sub>
 - <img src="https://github.com/gomarkdown.png?size=40" width="16" height="16" /> **[gomarkdown/markdown](https://github.com/gomarkdown/markdown)** — Markdown parser <sub>(⭐ **1.7k**)</sub>
 - <img src="https://github.com/dlclark.png?size=40" width="16" height="16" /> **[dlclark/regexp2](https://github.com/dlclark/regexp2)** — Regex engine <sub>(⭐ **1.2k**)</sub>
 - <img src="https://github.com/gookit.png?size=40" width="16" height="16" /> **[gookit/validate](https://github.com/gookit/validate)** — Data validation <sub>(⭐ **1.2k**)</sub>
